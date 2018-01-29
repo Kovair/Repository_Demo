@@ -3,7 +3,7 @@ package changePasswordOption;
 public class ChangePassword {
 
 	public static void main(String[] args) {
-		System.out.print("Change Password Option available in Form ");
+		System.out.print("Change Password Option available ");
 		// TODO Auto-generated method stub
 
 	}
