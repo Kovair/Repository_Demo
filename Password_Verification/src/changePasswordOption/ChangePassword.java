@@ -4,7 +4,7 @@ package changePasswordOption;
 
 public class ChangePassword {
 	
-    // class constant for default size 15
+    // class constant for default size 10
     private static final int DEFAULT_CAP = 10;
     
     //instance variables
