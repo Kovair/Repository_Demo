@@ -4,8 +4,8 @@ package changePasswordOption;
 
 public class ChangePassword {
 	
-    // class constant for default size 10
-    private static final int DEFAULT_CAP = 10;
+    // class constant for default size 15
+    private static final int DEFAULT_CAP = 15;
     
     //instance variables
     // iValues store the elements of the list and list values zcvvcx
