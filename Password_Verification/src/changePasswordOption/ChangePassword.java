@@ -123,7 +123,7 @@ public class ChangePassword {
     
         public ChangePassword(int initialCap) {
         assert initialCap > 0 : " The password will be Encrypted and stored "
-            + "The Remember Me Checkbox is Addedd " + initialCap;
+            + "The Remember Me Checkbox is Added " + initialCap;
         iValues = new Object[initialCap];
         iSize = 0;
     }
