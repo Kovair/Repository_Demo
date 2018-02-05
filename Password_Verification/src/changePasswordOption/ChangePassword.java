@@ -119,9 +119,9 @@ public class ChangePassword {
     
     
     
-    // Uncomment this section to get the Remember me Checkbox in the LoginPage1
+    // Uncomment this section to get the Remember me Checkbox in the LoginPage
     
-        public ChangePassword(int initialCap) {
+       // public ChangePassword(int initialCap) {
         assert initialCap > 0 : " The password will be Encrypted and stored "
             + "The Remember Me Checkbox is Added " + initialCap;
         iValues = new Object[initialCap];
