@@ -119,7 +119,7 @@ public class ChangePassword {
     
     
     
-    // Uncomment this section to get the Remember me Checkbox in the LoginPage
+    // Uncomment this section to get the Remember me Checkbox in the LoginPage1
     
         public ChangePassword(int initialCap) {
         assert initialCap > 0 : " The password will be Encrypted and stored "
